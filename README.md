@@ -1,5 +1,7 @@
 ### Hi there 👋
+
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/apewantstoliveforever?cardType=level&theme=dark&preferLogin=true&Ring=DD2727&Text=DD2727&Border=DD2727)](https://git.io/awesome-stats-card)
+
 <!--
 **apewantstoliveforever/apewantstoliveforever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Follow me on GitHub](https://img.shields.io/github/followers/apewantstoliveforever?label=Follow&style=social)](https://github.com/apewantstoliveforever)
+[![Check out my repositories](https://img.shields.io/badge/-Check%20out%20my%20repositories-brightgreen)](https://github.com/apewantstoliveforever?tab=repositories)
+[![Contact me](https://img.shields.io/badge/-Contact%20me-blue)](mailto:your-email@example.com)
